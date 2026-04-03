@@ -1,0 +1,21 @@
+    #box{
+    color: beige;
+    background-color:blue;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 9000;                                                                                                                                                                                                 ;
+    text-transform: uppercase;}
+
+    .web{
+        border :10px groove violet;
+        padding: 20%;
+        border-radius: 10cap;
+        margin: 10%;
+
+    }
+ span{
+    background-color: green;
+    display: inline;
+
+ }
+ 

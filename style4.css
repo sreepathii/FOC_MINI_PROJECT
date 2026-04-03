@@ -1,0 +1,15 @@
+.dark_mode{
+    background-color: black;
+    color:white;
+}
+#id4{
+    all: initial;
+    background-color: green;
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    opacity: 0;
+}

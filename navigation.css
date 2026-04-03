@@ -1,0 +1,45 @@
+.c1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+}
+.c2{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+.c3{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    gap: 50px;
+    display: flex;
+}
+.c4{
+
+    display: flex;
+    gap: 200px;
+    color: white;
+    text-decoration: none;
+
+}
+.c5{
+    margin-left: auto;
+    display: flex;
+}
+input{
+    padding: 5px;
+    border: none;
+    gap: 0;
+}
+#id1{
+    background-color: #f08804;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+}
